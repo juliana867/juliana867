@@ -1,0 +1,5 @@
+- 👋 óla meu nome é @juliana kauane 
+- 👀 meu email de contanto é juliana.sales.santo@escola.pr.gov.br
+- 🌱 eu estou interresado em aprender a programar nova linguagens 
+- 💞️ eu estou aprendendo a programar recentemente a lingugem de javaScript e scratch
+- 📫 How to reach me...
